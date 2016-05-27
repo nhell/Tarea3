@@ -1,0 +1,16 @@
+Part2
+
+a)
+
+En general, al aumentar la muestra de un experimento o estudio observacional, 
+uno puede obtener una mejor medición de los errores en los datos,esto es debido 
+que el error de muestreo esta relacionado a la muestra, por lo tanto 
+la potencia de la prueba estadística aumenta.
+
+
+b)
+
+Los errores tipo I y tipo II están relacionados. Una disminución en la probabilidad de uno 
+por lo general tiene como resultado un aumento en la probabilidad del otro. Por ello, cuando
+se aumenta el tamaño de la muestra, esto afecta directamente la precisión del error tipo I,
+ y por ende el error de tipo II disminuirá.
